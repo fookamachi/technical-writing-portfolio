@@ -32,7 +32,8 @@ fetch(url, options)
 
 GET requests are used to retrieve data from an API.
 
-```fetch("https://api.example.com/weather?city=Amsterdam")
+```javascript
+fetch("https://api.example.com/weather?city=Amsterdam")
   .then(response => response.json())
   .then(data => {
     console.log("Data received:", data);
@@ -46,7 +47,8 @@ GET requests are used to retrieve data from an API.
 
 POST requests are used to send data to a server.
 
-```fetch("https://api.example.com/login", {
+```javascript
+fetch("https://api.example.com/login", {
   method: "POST",
   headers: {
     "Content-Type": "application/json"
@@ -69,7 +71,8 @@ POST requests are used to send data to a server.
 
 Always check whether the response is successful before parsing data.
 
-```fetch(url)
+```javascript
+fetch(url)
   .then(response => {
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
@@ -90,7 +93,8 @@ Common error types:
 
 Example:
 
-```fetch(url)
+```javascript
+fetch(url)
   .then(response => {
     if (!response.ok) {
       throw new Error("Request failed");
@@ -113,7 +117,8 @@ Check response.ok before parsing JSON.
 
 **3. Use async/await (recommended)**  
 
-```async function getData() {
+```javascript
+async function getData() {
   try {
     const response = await fetch(url);
 
