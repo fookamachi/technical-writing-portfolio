@@ -12,15 +12,15 @@ Protocol: **HTTPS**
 
 ## Table of Contents
 
-* Quick Start
-* Authentication
-* Base URL
-* Endpoints
-* Request Parameters
-* Examples
-* Response Format
-* Errors
-* Rate Limits
+- [Quick Start](#quick-start)
+- [Authentication](#authentication)
+- [Base URL](#base-url)
+- [Endpoints](#endpoints)
+- [Request Parameters](#request-parameters)
+- [Examples](#examples)
+- [Response Format](#response-format)
+- [Errors](#errors)
+- [Rate Limits](#rate-limits)
 
 ---
 
