@@ -17,14 +17,14 @@ The site automatically updates when changes are pushed to the repository.
 
 ## Table of Contents
 
-* Quick Start
-* Requirements
-* Create a Repository
-* Initialize Project
-* Connect to GitHub
-* Enable GitHub Pages
-* Project Structure
-* Common Issues
+- [Quick Start](#quick-start)
+- [Requirements](#requirements)
+- [Create a Repository](#create-a-repository)
+- [Initialize Project](#initialize-project)
+- [Connect to GitHub](#connect-to-github)
+- [Enable GitHub Pages](#enable-github-pages)
+- [Project Structure](#project-structure)
+- [Common Issues](#common-issues)
 
 ---
 
