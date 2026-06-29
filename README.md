@@ -1,5 +1,5 @@
 ## Hi there, I'm Temmy 📝
-<p> <img src="https://readme-typing-svg.demolab.com?font=Comic+sans+ms&duration=3000&pause=1000&color=bababa&background=81FF9900&width=435&lines=Technical+Writer;API+Documentation+%7C+Developer+Docs+%7C+UX+Writing;Creating+clear+and+structured+documentation"> </p>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Comic+sans+ms&duration=3000&pause=1000&color=487CC2&background=81FF9900&width=435&lines=Technical+Writer;API+Documentation+%7C+Developer+Docs+%7C+UX+Writing;Creating+clear+and+structured+documentation"> </p>
 
 ### ✍️ About Me  
 🧾 Technical Writer focused on developer documentation and product content  
